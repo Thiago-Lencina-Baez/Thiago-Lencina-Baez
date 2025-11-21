@@ -49,7 +49,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Lencina-Baez&show_icons=true&theme=tokyonight&title_color=A8E6FF&icon_color=A8E6FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-Thiago-Lencina-Baez&layout=compact&theme=tokyonight&title_color=A8E6FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Lencina-Baez&layout=compact&theme=tokyonight&title_color=A8E6FF" />
 
 </div>
 
