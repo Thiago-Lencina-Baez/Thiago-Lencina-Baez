@@ -1,7 +1,131 @@
-# Hola Soy Thiago 
-## Redes Sociales:
-<div>
-<a href="https://www.linkedin.com/in/thiago-lencina-b%C3%A1ez-aa229328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://static.vecteezy.com/system/resources/previews/023/986/568/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width=50></img> 
-</a>  
-</div>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mi Página Personal</title>
+
+  <!-- Íconos FontAwesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+      overflow-x: hidden;
+    }
+
+    /* Animación suave */
+    .fade-up {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 0.8s ease-out forwards;
+    }
+
+    @keyframes fadeUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    header {
+      background: linear-gradient(135deg, #ff66b2, #000000);
+      color: white;
+      padding: 70px 20px;
+      text-align: center;
+      animation: fadeInHeader 1.2s ease-out forwards;
+    }
+
+    @keyframes fadeInHeader {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 3rem;
+      letter-spacing: 2px;
+    }
+
+    .section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 25px;
+      background: white;
+      border-radius: 15px;
+      box-shadow: 0px 4px 14px rgba(0,0,0,0.12);
+    }
+
+    h2 {
+      border-left: 6px solid #ff66b2;
+      padding-left: 10px;
+      font-size: 1.8rem;
+    }
+
+    /* Botones de redes */
+    .redes a {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      margin-right: 18px;
+      margin-top: 10px;
+      text-decoration: none;
+      background: #ff66b2;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: 0.3s ease;
+    }
+
+    .redes a i {
+      font-size: 1.2rem;
+    }
+
+    .redes a:hover {
+      background: #d94b92;
+      transform: translateY(-3px);
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Mi Página Personal</h1>
+    <p class="fade-up">Bienvenido/a a mi sitio web creado con GitHub Pages</p>
+  </header>
+
+  <section class="section fade-up" style="animation-delay: .1s;">
+    <h2>Sobre mí</h2>
+    <p>
+      Soy un creador y desarrollador apasionado por la tecnología, el diseño, las impresiones 3D y la creación de contenido.
+    </p>
+  </section>
+
+  <section class="section fade-up" style="animation-delay: .2s;">
+    <h2>Mis Redes</h2>
+    <div class="redes">
+      <a href="https://instagram.com/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+      <a href="https://linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a href="https://youtube.com/" target="_blank"><i class="fab fa-youtube"></i> YouTube</a>
+    </div>
+  </section>
+
+  <section class="section fade-up" style="animation-delay: .3s;">
+    <h2>Proyectos</h2>
+    <ul>
+      <li><strong>Proyecto 1:</strong> Descripción breve.</li>
+      <li><strong>Proyecto 2:</strong> Descripción breve.</li>
+      <li><strong>Proyecto 3:</strong> Descripción breve.</li>
+    </ul>
+  </section>
+
+</body>
+</html>
+
