@@ -48,8 +48,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&title_color=A8E6FF&icon_color=A8E6FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&title_color=A8E6FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Lencina-Baez&show_icons=true&theme=tokyonight&title_color=A8E6FF&icon_color=A8E6FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-Thiago-Lencina-Baez&layout=compact&theme=tokyonight&title_color=A8E6FF" />
 
 </div>
 
@@ -57,10 +57,10 @@
 
 ## ✨ Sobre mí
 
-- 🔧 Actualmente trabajando en proyectos frontend  
-- 🎨 Me gusta el diseño minimalista  
-- 🧪 Aprendiendo nuevas tecnologías cada semana  
-- 🚀 Amante de los proyectos creativos  
+- 🔧 Actualmente trabajando en proyectos personales  
+- 🧪 Aprendiendo nuevas tecnologías 
+- 🚀 Amante de los proyectos creativos
+- 🎶 Me gusta la musica
 
 ---
 
