@@ -7,9 +7,6 @@
 <!-- Línea decorativa -->
 <img src="https://cdn.jsdelivr.net/gh/ThijsRay/LineDecorations/waves/wave3.svg" width="100%" height="30px" />
 
-<!-- Animación -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=600&color=A8E6FF&center=true&vCenter=true&width=650&lines=Bienvenido+a+mi+GitHub;Desarrollador+creativo;Amante+del+frontend+y+la+estética;Construyendo+cosas+geniales+en+la+web" />
-
 </div>
 
 ---
@@ -18,7 +15,7 @@
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,figma,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=cs,mysql,sqlite,c,java,git,github&theme=light" />
 
 </div>
 
