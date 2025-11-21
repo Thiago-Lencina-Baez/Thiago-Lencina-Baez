@@ -1,7 +1,7 @@
 <!-- Encabezado centrado -->
 <div align="center">
 
-# 👋 ¡Hola! Soy *Tu Nombre*  
+# ¡Hola! Soy Thiago 
 ### Frontend • Backend • Proyectos creativos
 
 </div>
