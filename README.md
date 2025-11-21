@@ -2,7 +2,7 @@
 <div align="center">
 
 # ¡Hola! Soy Thiago 
-### Frontend • Backend • Proyectos creativos
+### Game Desinger • Backend 
 
 </div>
 
