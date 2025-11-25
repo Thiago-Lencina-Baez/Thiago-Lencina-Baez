@@ -34,7 +34,7 @@
 
 <!-- Youtube -->
 <a href="" target="_blank">
-  <img src="https://www.pngkey.com/png/full/747-7477338_social-media-logo-youtube-clipart-social-media-youtube.png" width="48px" />
+  <img src="" width="48px" />
 </a>
 
 
