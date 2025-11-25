@@ -32,6 +32,11 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="48px" />
 </a>
 
+<!-- Youtube -->
+<a href="" target="_blank">
+  <img src="https://www.pngkey.com/png/full/747-7477338_social-media-logo-youtube-clipart-social-media-youtube.png" width="48px" />
+</a>
+
 
 </div>
 
