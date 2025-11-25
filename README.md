@@ -28,12 +28,12 @@
 </a>
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/tuusuario" target="_blank">
+<a href="https://www.linkedin.com/in/thiago-lencina-báez-aa229328a/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48px" />
 </a>
 
 <!-- YouTube -->
-<a href="https://youtube.com/tuusuario" target="_blank">
+<a href="" target="_blank">
   <img src="https://skillicons.dev/icons?i=youtube" width="48px" />
 </a>
 
