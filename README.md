@@ -32,10 +32,6 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="48px" />
 </a>
 
-<!-- YouTube -->
-<a href="" target="_blank">
-  <img src="https://skillicons.dev/icons?i=youtube" width="48px" />
-</a>
 
 </div>
 
