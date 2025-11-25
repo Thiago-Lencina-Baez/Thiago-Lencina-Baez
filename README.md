@@ -34,7 +34,7 @@
 
 <!-- Youtube -->
 <a href="" target="_blank">
-  <img src="" width="48px" />
+  <img src="https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" width="48px" />
 </a>
 
 
